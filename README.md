@@ -62,7 +62,7 @@ The model is trained using the following parameters:
 - Optimizer: Adam with a learning rate of 0.001
 - Loss function: Binary Crossentropy
 - Metrics: Accuracy
-- Number of epochs: 30
+- Number of epochs: 50
 
 The data is split into training and validation sets to monitor the model's performance during training.
 
